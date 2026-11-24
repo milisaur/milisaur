@@ -1,4 +1,4 @@
-# Hi, I'm milisaur 🦕
+# Hi, I'm milisaur
 
 Computer science and psychology student at FernUniversität in Hagen.
 I like understanding systems, from kernels to cognition.
