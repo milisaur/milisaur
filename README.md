@@ -18,4 +18,4 @@ I like understanding systems, from kernels to cognition.
 - **Running:** NixOS + Hyprland, GrapheneOS
 - **Using regularly:** Nix, Linux, Git, Neovim, HTML/CSS
 - **Currently learning:** Go, Python, Java, R
-- **Also into:** dog behaviour, dinosaurs, philosophy
+- **Also interested in:** dog behaviour, dinosaurs, philosophy
